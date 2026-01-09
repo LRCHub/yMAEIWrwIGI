@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "ALONE",
+  "base_artist": "LEX",
+  "createdAt": "2026-01-09T10:48:11.172897Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Alone",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/01_Alone_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Alone",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/02_Alone_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Alone, Pt. II",
+      "artist": "Alan Walker feat. Ava Max",
+      "has_synced": true,
+      "path": "select/03_Alone,_Pt._II_Alan_Walker_feat._Ava_Max.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Alone, Pt. II",
+      "artist": "Alan Walker;Ava Max",
+      "has_synced": true,
+      "path": "select/04_Alone,_Pt._II_Alan_Walker;Ava_Max.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Leave You Alone",
+      "artist": "Kane Brown",
+      "has_synced": true,
+      "path": "select/05_Leave_You_Alone_Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Leave You Alone",
+      "artist": "Kane Brown",
+      "has_synced": true,
+      "path": "select/06_Leave_You_Alone_Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Alone Together",
+      "artist": "Dan + Shay",
+      "has_synced": true,
+      "path": "select/07_Alone_Together_Dan_+_Shay.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Drinking Alone",
+      "artist": "Carrie Underwood",
+      "has_synced": true,
+      "path": "select/08_Drinking_Alone_Carrie_Underwood.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Walk Alone",
+      "artist": "Marty Robbins",
+      "has_synced": true,
+      "path": "select/09_I_Walk_Alone_Marty_Robbins.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Wish You Could Have Turned My Head (And Left My Heart Alone)",
+      "artist": "The Oak Ridge Boys",
+      "has_synced": true,
+      "path": "select/10_I_Wish_You_Could_Have_Turned_My_Head_(And_Left_My_Heart_Alone)_The_Oak_Ridge_Boys.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Wish You Could Have Turned My Head (And Left My Heart Alone)",
+      "artist": "The Oak Ridge Boys",
+      "has_synced": true,
+      "path": "select/11_I_Wish_You_Could_Have_Turned_My_Head_(And_Left_My_Heart_Alone)_The_Oak_Ridge_Boys.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I'll Be Leaving Alone",
+      "artist": "Charley Pride",
+      "has_synced": false,
+      "path": "select/12_I'll_Be_Leaving_Alone_Charley_Pride.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I'll Sail My Ship Alone - 1995 Digital Remaster",
+      "artist": "Leon Russell",
+      "has_synced": false,
+      "path": "select/13_I'll_Sail_My_Ship_Alone_-_1995_Digital_Remaster_Leon_Russell.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Leave Her Alone",
+      "artist": "Dylan Scott",
+      "has_synced": true,
+      "path": "select/14_Leave_Her_Alone_Dylan_Scott.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Leave Me Alone",
+      "artist": "Tucker Beathard",
+      "has_synced": true,
+      "path": "select/15_Leave_Me_Alone_Tucker_Beathard.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Married Alone (feat. Vince Gill)",
+      "artist": "Sunny Sweeney",
+      "has_synced": true,
+      "path": "select/16_Married_Alone_(feat._Vince_Gill)_Sunny_Sweeney.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ALONE",
+      "artist": "LEX",
+      "has_synced": false,
+      "path": "select/pl_01_ALONE_LEX.txt"
+    }
+  ]
+}
